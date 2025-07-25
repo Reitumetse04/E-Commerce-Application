@@ -6,7 +6,6 @@ This is the authentication and user management API for the **E-Commerce Applicat
 
 - User Registration & Login
 - JWT Authentication
-- Role-Based Authorization (Admin, User)
 - ASP.NET Identity integration
 - RESTful API endpoints
 
